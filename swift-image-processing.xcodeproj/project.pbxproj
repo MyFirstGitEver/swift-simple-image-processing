@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C33467252A602B1C00943B07 /* ImageProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33467242A602B1C00943B07 /* ImageProcessor.swift */; };
 		C396A2DC2A5D12AC003A733F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C396A2DB2A5D12AC003A733F /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C33467242A602B1C00943B07 /* ImageProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessor.swift; sourceTree = "<group>"; };
 		C396A2D82A5D12AC003A733F /* swift-image-processing */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-image-processing"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C396A2DB2A5D12AC003A733F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				C396A2DB2A5D12AC003A733F /* main.swift */,
+				C33467242A602B1C00943B07 /* ImageProcessor.swift */,
 			);
 			path = "swift-image-processing";
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C33467252A602B1C00943B07 /* ImageProcessor.swift in Sources */,
 				C396A2DC2A5D12AC003A733F /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
