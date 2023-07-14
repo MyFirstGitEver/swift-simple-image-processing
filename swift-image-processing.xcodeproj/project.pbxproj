@@ -25,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		C33467242A602B1C00943B07 /* ImageProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessor.swift; sourceTree = "<group>"; };
+		C33467262A6118AC00943B07 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; name = images; path = ../../../images; sourceTree = "<group>"; };
 		C396A2D82A5D12AC003A733F /* swift-image-processing */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-image-processing"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C396A2DB2A5D12AC003A733F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -59,6 +60,7 @@
 		C396A2DA2A5D12AC003A733F /* swift-image-processing */ = {
 			isa = PBXGroup;
 			children = (
+				C33467262A6118AC00943B07 /* images */,
 				C396A2DB2A5D12AC003A733F /* main.swift */,
 				C33467242A602B1C00943B07 /* ImageProcessor.swift */,
 			);
